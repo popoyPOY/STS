@@ -137,4 +137,45 @@ State in early **Mesopotamia**
 
 **Lucretius** - 94 BCE
 * Wrote ```De rerum natura```
-* 
+
+**Ancient Romand Science and Technology**
+
+* Portable Sundial
+* Coin Bearing
+* Wheeled Plough
+* Oxen Driven harvesting machine
+
+**Renaissance**
+* Period of European cultural, artistic, political and economic growth. 
+* 14th - 17th Century
+* Renaissance and Scientist lead to rebirth of Technology
+
+**People in Renaissance**
+* Leonardo da Vinci
+* Michelangelo
+
+**Scientific Revolution**
+Emergence of modern science during the early modern period. Development in **mathematics**, **physics**, **astronomy**, **biology**, and **chemistry**.
+* 1550-1700 
+
+**Renaissance**
+*Galileo Galilei - Italian natural philosopher, astronomer and mathematician who  made fundamental contribution to sciences of motion, astronomy, and development of scientific method.
+
+**Information Age**
+* 1973 - Present
+* Focus of Science and Tech is ``information``
+* Progress in electronics and computers
+* Advances in biology
+
+**Information and Globalization**
+* Communication Worldwide
+* Changed people work
+* Global Banking
+* Business trends
+
+**Problems in information Age**
+* Excessive use of computers in teaching
+* Knowledge by  data
+* Ideas contain data but data contain no ideas
+
+## END OF THE TOPIC
